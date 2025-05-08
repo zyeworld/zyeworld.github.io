@@ -3,7 +3,7 @@
 _Hi I'm Zye._ </br>
 _안녕하세요 자이입니다._
 
-This is where I develop [zz-zye.github.io](https://zz-zye.github.io/), a personal website organizing my various projects.
+This is where I develop [zyeworld.github.io](https://zyeworld.github.io/), a personal website organizing my various projects.
 
 ---
 
